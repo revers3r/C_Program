@@ -1,0 +1,18 @@
+﻿  my_util.cpp
+  main.cpp
+  vmReg.cpp
+c:\users\wlsgu\desktop\aaa\vmreg.cpp(30): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  VMprocess.cpp
+c:\users\wlsgu\desktop\aaa\vmprocess.cpp(29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\wlsgu\desktop\aaa\vmprocess.cpp(23): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\wlsgu\desktop\aaa\vmprocess.cpp(53): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\wlsgu\desktop\aaa\vmprocess.cpp(75): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  log_msg.cpp
+  encrypt.cpp
+  DBase.cpp
+c:\users\wlsgu\desktop\aaa\dbase.cpp(35): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+d:\github\c\vmdetect\vmdetect\vmdetect\my_util.cpp(14): warning C4172: 지역 변수 또는 임시: temp의 주소를 반환하고 있습니다.
+d:\github\c\vmdetect\vmdetect\vmdetect\my_util.cpp(6): warning C4172: 지역 변수 또는 임시: ctemp의 주소를 반환하고 있습니다.
+vmReg.obj : error LNK2005: "char * * keyTable" (?keyTable@@3PAPADA)이(가) DBase.obj에 이미 정의되어 있습니다.
+D:\github\C\VMDetect\VMDetect\Debug\VMDetect.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
